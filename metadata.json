@@ -1,0 +1,6 @@
+{
+  "name": "Smile Dental Care & Polyclinic",
+  "description": "Modern dental clinic website with interactive smart appointment booking, doctor profiles, treatments, before/after showcase, and clinic management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
